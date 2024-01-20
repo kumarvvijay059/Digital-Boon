@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "30780839168",
+    "project_id": "login-signup-with-fireba-8f4ab",
+    "storage_bucket": "login-signup-with-fireba-8f4ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30780839168:android:eeb9eea6de1685a6f94fe5",
+        "android_client_info": {
+          "package_name": "com.example.digitalboonkar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30780839168-3j2oqmhu8ltsgi1g1vbjj11ivn9tdfvm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.digitalboonkar",
+            "certificate_hash": "80466ef376176afd6120c7f2e1ed61bb0534908d"
+          }
+        },
+        {
+          "client_id": "30780839168-6b2ssgkbcv5ogenct56u3voee3bd1kbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC35FJ5Ndi7SVCmu6pusvnrp0FnL5j51vY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30780839168-6b2ssgkbcv5ogenct56u3voee3bd1kbl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
